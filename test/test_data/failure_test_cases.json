@@ -1,0 +1,192 @@
+[
+  {
+    "restaurant_name": "Doors Freestyle Grill",
+    "restaurant_url": "https://maps.app.goo.gl/1Hkkzis5zhwnu3Ah7",
+    "party_size": 2,
+    "date": "June 27, 2025",
+    "time": "19:00",
+    "expected": "failed",
+    "reason": "Provided time is not available for booking on the given date."
+  },
+  {
+    "restaurant_name": "Doors Freestyle Grill",
+    "restaurant_url": "https://maps.app.goo.gl/1Hkkzis5zhwnu3Ah7",
+    "party_size": 2,
+    "date": "June 27, 2025",
+    "time": "19:00",
+    "expected": "failed",
+    "reason": "Provided time is not available for booking on the given date."
+  },
+  {
+    "restaurant_name": "Doors Freestyle Grill",
+    "restaurant_url": "https://maps.app.goo.gl/1Hkkzis5zhwnu3Ah7",
+    "party_size": 2,
+    "date": "June 27, 2025",
+    "time": "19:00",
+    "expected": "failed",
+    "reason": "Provided time is not available for booking on the given date."
+  },
+  {
+    "restaurant_name": "Doors Freestyle Grill",
+    "restaurant_url": "https://maps.app.goo.gl/1Hkkzis5zhwnu3Ah7",
+    "party_size": 2,
+    "date": "June 27, 2025",
+    "time": "19:00",
+    "expected": "failed",
+    "reason": "Provided time is not available for booking on the given date."
+  },
+  {
+    "restaurant_name": "Doors Freestyle Grill",
+    "restaurant_url": "https://maps.app.goo.gl/1Hkkzis5zhwnu3Ah7",
+    "party_size": 2,
+    "date": "June 27, 2025",
+    "time": "19:00",
+    "expected": "failed",
+    "reason": "Provided time is not available for booking on the given date."
+  },
+
+  {
+    "restaurant_name": "Sheger Restaurant",
+    "restaurant_url": "https://maps.app.goo.gl/ZZ7nFAJF9a4xKRvu7",
+    "party_size": 2,
+    "date": "June 20, 2025",
+    "time": "10:00",
+    "expected": "failed",
+    "reason": "Reserve with Google button/form not found on the page."
+  },
+  {
+    "restaurant_name": "Sheger Restaurant",
+    "restaurant_url": "https://maps.app.goo.gl/ZZ7nFAJF9a4xKRvu7",
+    "party_size": 4,
+    "date": "June 19, 2025",
+    "time": "16:00",
+    "expected": "failed",
+    "reason": "Reserve with Google button/form not found on the page."
+  },
+  {
+    "restaurant_name": "Sheger Restaurant",
+    "restaurant_url": "https://maps.app.goo.gl/ZZ7nFAJF9a4xKRvu7",
+    "party_size": 6,
+    "date": "June 21, 2025",
+    "time": "19:00",
+    "expected": "failed",
+    "reason": "Reserve with Google button/form not found on the page."
+  },
+  {
+    "restaurant_name": "Sheger Restaurant",
+    "restaurant_url": "https://maps.app.goo.gl/ZZ7nFAJF9a4xKRvu7",
+    "party_size": 1,
+    "date": "June 20, 2025",
+    "time": "14:30",
+    "expected": "failed",
+    "reason": "Reserve with Google button/form not found on the page."
+  },
+  {
+    "restaurant_name": "Sheger Restaurant",
+    "restaurant_url": "https://maps.app.goo.gl/LuDeLqEt3kPhos968",
+    "party_size": 2,
+    "date": "June 18, 2025",
+    "time": "12:00",
+    "expected": "failed",
+    "reason": "Provided date is not available for booking."
+  },
+  {
+    "restaurant_name": "Sheger Restaurant",
+    "restaurant_url": "https://maps.app.goo.gl/LuDeLqEt3kPhos968",
+    "party_size": 3,
+    "date": "June 22, 2025",
+    "time": "15:00",
+    "expected": "failed",
+    "reason": "Provided date is not available for booking."
+  },
+  {
+    "restaurant_name": "Sheger Restaurant",
+    "restaurant_url": "https://maps.app.goo.gl/LuDeLqEt3kPhos968",
+    "party_size": 5,
+    "date": "July 01, 2025",
+    "time": "18:30",
+    "expected": "failed",
+    "reason": "Provided date is not available for booking."
+  },
+  {
+    "restaurant_name": "Sheger Restaurant",
+    "restaurant_url": "https://maps.app.goo.gl/LuDeLqEt3kPhos968",
+    "party_size": 7,
+    "date": "December 25, 2024",
+    "time": "20:00",
+    "expected": "failed",
+    "reason": "Provided date is not available for booking."
+  },
+  {
+    "restaurant_name": "Sheger Restaurant",
+    "restaurant_url": "https://maps.app.goo.gl/LuDeLqEt3kPhos968",
+    "party_size": 2,
+    "date": "June 20, 2025",
+    "time": "09:00",
+    "expected": "failed",
+    "reason": "Provided time is not available for booking on the given date."
+  },
+  {
+    "restaurant_name": "Sheger Restaurant",
+    "restaurant_url": "https://maps.app.goo.gl/LuDeLqEt3kPhos968",
+    "party_size": 4,
+    "date": "June 20, 2025",
+    "time": "09:30",
+    "expected": "failed",
+    "reason": "Provided time is not available for booking on the given date."
+  },
+  {
+    "restaurant_name": "Sheger Restaurant",
+    "restaurant_url": "https://maps.app.goo.gl/LuDeLqEt3kPhos968",
+    "party_size": 6,
+    "date": "June 19, 2025",
+    "time": "10:00",
+    "expected": "failed",
+    "reason": "Provided time is not available for booking on the given date."
+  },
+  {
+    "restaurant_name": "Sheger Restaurant",
+    "restaurant_url": "https://maps.app.goo.gl/LuDeLqEt3kPhos968",
+    "party_size": 8,
+    "date": "June 21, 2025",
+    "time": "23:45",
+    "expected": "failed",
+    "reason": "Provided time is not available for booking on the given date."
+  },
+  {
+    "restaurant_name": "Sheger Restaurant",
+    "restaurant_url": "https://maps.app.goo.gl/LuDeLqEt3kPhos968",
+    "party_size": 0,
+    "date": "June 20, 2025",
+    "time": "12:00",
+    "expected": "failed",
+    "reason": "Provided party size is outside the acceptable range (1-10)."
+  },
+  {
+    "restaurant_name": "Sheger Restaurant",
+    "restaurant_url": "https://maps.app.goo.gl/LuDeLqEt3kPhos968",
+    "party_size": 11,
+    "date": "June 20, 2025",
+    "time": "15:00",
+    "expected": "failed",
+    "reason": "Provided party size is outside the acceptable range (1-10)."
+  },
+  {
+    "restaurant_name": "Sheger Restaurant",
+    "restaurant_url": "https://maps.app.goo.gl/LuDeLqEt3kPhos968",
+    "party_size": -1,
+    "date": "June 19, 2025",
+    "time": "17:00",
+    "expected": "failed",
+    "reason": "Provided party size is outside the acceptable range (1-10)."
+  },
+  {
+    "restaurant_name": "Sheger Restaurant",
+    "restaurant_url": "https://maps.app.goo.gl/LuDeLqEt3kPhos968",
+    "party_size": 15,
+    "date": "June 21, 2025",
+    "time": "20:00",
+    "expected": "failed",
+    "reason": "Provided party size is outside the acceptable range (1-10)."
+  }
+]

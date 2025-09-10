@@ -1,0 +1,14 @@
+[
+    {
+        "task_id": "5e8ef0d2-4d86-42e5-aafd-4f60b0917d30",
+        "task_details": {
+            "restaurant_name": "RSVP Restaurant",
+            "restaurant_url": "https://maps.app.goo.gl/4supBREETjsr8f8cA",
+            "party_size": 2,
+            "date": "July 28, 2025",
+            "time": "20:00",
+            "expected": "completed"
+        },
+        "expected_result": "completed"
+    }
+]

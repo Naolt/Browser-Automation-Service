@@ -1,0 +1,66 @@
+[
+    {
+        "task_id": "0b674867-1d33-4465-9fa1-b9420ccd291f",
+        "task_details": {
+            "restaurant_name": "Sheger Restaurant",
+            "restaurant_url": "https://maps.app.goo.gl/jdmmJT81FUne3Vso6",
+            "party_size": 2,
+            "date": "July 16, 2025",
+            "time": "18:00",
+            "expected": "completed"
+        },
+        "expected_result": "completed",
+        "fetched_status": "failed",
+        "fetched_result_message": "\u274c [FATAL] Reservation failed: Time not available. Do not retry.",
+        "duration_minutes": null,
+        "passed": false,
+        "evaluation_status": "evaluated"
+    },
+    {
+        "task_id": "3cb2eeb1-d25d-46f0-aaa6-0aed7105ae3d",
+        "task_details": {
+            "restaurant_name": "Sheger Restaurant",
+            "restaurant_url": "https://maps.app.goo.gl/jdmmJT81FUne3Vso6",
+            "party_size": 2,
+            "date": "July 16, 2025",
+            "time": "19:00",
+            "expected": "completed"
+        },
+        "expected_result": "completed",
+        "fetched_status": "failed",
+        "fetched_result_message": "[FATAL] Reservation failed: Time not available. Do not retry.",
+        "duration_minutes": null,
+        "passed": false,
+        "evaluation_status": "evaluated"
+    },
+    {
+        "task_id": "e2a99ef1-264a-44ab-8a76-3890441ebb12",
+        "task_details": {
+            "restaurant_name": "Sheger Restaurant",
+            "restaurant_url": "https://maps.app.goo.gl/jdmmJT81FUne3Vso6",
+            "party_size": 2,
+            "date": "July 16, 2025",
+            "time": "20:00",
+            "expected": "completed"
+        },
+        "expected_result": "completed",
+        "fetched_status": "failed",
+        "fetched_result_message": "[FATAL] Reservation failed: Time not available. Do not retry.",
+        "duration_minutes": null,
+        "passed": false,
+        "evaluation_status": "evaluated"
+    },
+    {
+        "summary": {
+            "test_type": "success",
+            "total_tests_attempted_submission": 3,
+            "total_tests_processed_for_evaluation": 3,
+            "successful_evaluations_count": 0,
+            "overall_success_rate_percent": 0.0,
+            "average_duration_minutes": 0,
+            "max_duration_minutes": 0,
+            "median_duration_minutes": 0,
+            "min_duration_minutes": 0
+        }
+    }
+]

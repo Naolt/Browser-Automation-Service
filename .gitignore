@@ -1,0 +1,57 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+*.egg
+*.egg-info/
+build/
+dist/
+*.whl
+venv/
+.pytest_cache/
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# Firebase and service account files
+fluid-firebase-sdk.json
+*firebase*.json
+*service-account*.json
+*credentials*.json
+
+# Images and media
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+images/
+
+# Logs
+logs/
+*.log
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Chrome profiles and browser data
+cloned_chrome_profiles/
+*.profile

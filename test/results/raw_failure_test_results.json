@@ -1,0 +1,67 @@
+[
+    {
+        "task_id": "c641bb60-881c-4906-be57-0cb2f1b684c7",
+        "task_details": {
+            "restaurant_name": "Doors Freestyle Grill",
+            "restaurant_url": "https://maps.app.goo.gl/1Hkkzis5zhwnu3Ah7",
+            "party_size": 2,
+            "date": "June 27, 2025",
+            "time": "19:00",
+            "expected": "failed",
+            "reason": "Provided time is not available for booking on the given date."
+        },
+        "expected_result": "failed"
+    },
+    {
+        "task_id": "254379e3-e8a4-4166-864e-a6828990608a",
+        "task_details": {
+            "restaurant_name": "Doors Freestyle Grill",
+            "restaurant_url": "https://maps.app.goo.gl/1Hkkzis5zhwnu3Ah7",
+            "party_size": 2,
+            "date": "June 27, 2025",
+            "time": "19:00",
+            "expected": "failed",
+            "reason": "Provided time is not available for booking on the given date."
+        },
+        "expected_result": "failed"
+    },
+    {
+        "task_id": "d14371f7-1750-4b94-b553-25874428613d",
+        "task_details": {
+            "restaurant_name": "Doors Freestyle Grill",
+            "restaurant_url": "https://maps.app.goo.gl/1Hkkzis5zhwnu3Ah7",
+            "party_size": 2,
+            "date": "June 27, 2025",
+            "time": "19:00",
+            "expected": "failed",
+            "reason": "Provided time is not available for booking on the given date."
+        },
+        "expected_result": "failed"
+    },
+    {
+        "task_id": "854fa57b-870e-436e-9ac8-8b876178de4e",
+        "task_details": {
+            "restaurant_name": "Doors Freestyle Grill",
+            "restaurant_url": "https://maps.app.goo.gl/1Hkkzis5zhwnu3Ah7",
+            "party_size": 2,
+            "date": "June 27, 2025",
+            "time": "19:00",
+            "expected": "failed",
+            "reason": "Provided time is not available for booking on the given date."
+        },
+        "expected_result": "failed"
+    },
+    {
+        "task_id": "ac460cc7-8f33-4f9c-8a9c-65c4a838da3a",
+        "task_details": {
+            "restaurant_name": "Doors Freestyle Grill",
+            "restaurant_url": "https://maps.app.goo.gl/1Hkkzis5zhwnu3Ah7",
+            "party_size": 2,
+            "date": "June 27, 2025",
+            "time": "19:00",
+            "expected": "failed",
+            "reason": "Provided time is not available for booking on the given date."
+        },
+        "expected_result": "failed"
+    }
+]

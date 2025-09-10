@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+python-json-logger
+python-dotenv
+browser-use
+langchain-openai
+websockets
+requests
+firebase-admin
+phonenumbers

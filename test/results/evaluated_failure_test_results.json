@@ -1,0 +1,102 @@
+[
+    {
+        "task_id": "c641bb60-881c-4906-be57-0cb2f1b684c7",
+        "task_details": {
+            "restaurant_name": "Doors Freestyle Grill",
+            "restaurant_url": "https://maps.app.goo.gl/1Hkkzis5zhwnu3Ah7",
+            "party_size": 2,
+            "date": "June 27, 2025",
+            "time": "19:00",
+            "expected": "failed",
+            "reason": "Provided time is not available for booking on the given date."
+        },
+        "expected_result": "failed",
+        "fetched_status": "failed",
+        "fetched_result_message": "[FATAL] Reservation failed: Time not available. Do not retry.",
+        "duration_minutes": 1.04,
+        "passed": true,
+        "evaluation_status": "evaluated"
+    },
+    {
+        "task_id": "254379e3-e8a4-4166-864e-a6828990608a",
+        "task_details": {
+            "restaurant_name": "Doors Freestyle Grill",
+            "restaurant_url": "https://maps.app.goo.gl/1Hkkzis5zhwnu3Ah7",
+            "party_size": 2,
+            "date": "June 27, 2025",
+            "time": "19:00",
+            "expected": "failed",
+            "reason": "Provided time is not available for booking on the given date."
+        },
+        "expected_result": "failed",
+        "fetched_status": "failed",
+        "fetched_result_message": "\u274c [FATAL] Reservation failed: Time not available. Do not retry.",
+        "duration_minutes": 1.26,
+        "passed": true,
+        "evaluation_status": "evaluated"
+    },
+    {
+        "task_id": "d14371f7-1750-4b94-b553-25874428613d",
+        "task_details": {
+            "restaurant_name": "Doors Freestyle Grill",
+            "restaurant_url": "https://maps.app.goo.gl/1Hkkzis5zhwnu3Ah7",
+            "party_size": 2,
+            "date": "June 27, 2025",
+            "time": "19:00",
+            "expected": "failed",
+            "reason": "Provided time is not available for booking on the given date."
+        },
+        "expected_result": "failed",
+        "fetched_status": "failed",
+        "fetched_result_message": "\u274c Error selecting party size: Party size selection failed as the process encountered repeated timeouts and element obstructions. This is a terminal obstacle, and further attempts or alternative booking strategies are not recommended, as per instructions.",
+        "duration_minutes": 1.83,
+        "passed": true,
+        "evaluation_status": "evaluated"
+    },
+    {
+        "task_id": "854fa57b-870e-436e-9ac8-8b876178de4e",
+        "task_details": {
+            "restaurant_name": "Doors Freestyle Grill",
+            "restaurant_url": "https://maps.app.goo.gl/1Hkkzis5zhwnu3Ah7",
+            "party_size": 2,
+            "date": "June 27, 2025",
+            "time": "19:00",
+            "expected": "failed",
+            "reason": "Provided time is not available for booking on the given date."
+        },
+        "expected_result": "failed",
+        "fetched_status": "failed",
+        "fetched_result_message": "\u274c Reservation system not available",
+        "duration_minutes": 1.2,
+        "passed": true,
+        "evaluation_status": "evaluated"
+    },
+    {
+        "task_id": "ac460cc7-8f33-4f9c-8a9c-65c4a838da3a",
+        "task_details": {
+            "restaurant_name": "Doors Freestyle Grill",
+            "restaurant_url": "https://maps.app.goo.gl/1Hkkzis5zhwnu3Ah7",
+            "party_size": 2,
+            "date": "June 27, 2025",
+            "time": "19:00",
+            "expected": "failed",
+            "reason": "Provided time is not available for booking on the given date."
+        },
+        "expected_result": "failed",
+        "fetched_status": "failed",
+        "fetched_result_message": "\u274c Reservation system not available because the 'Reserve a table' option is not present in the Google Maps entry for Doors Freestyle Grill. Only alternative links for doorsdubai.com, zomato.com, and opentable.ae are available, which do not direct to Reserve with Google.",
+        "duration_minutes": 0.43,
+        "passed": true,
+        "evaluation_status": "evaluated"
+    },
+    {
+        "summary": {
+            "test_type": "failure",
+            "total_tests_attempted_submission": 5,
+            "total_tests_processed_for_evaluation": 5,
+            "successful_evaluations_count": 5,
+            "overall_success_rate_percent": 100.0,
+            "average_duration_minutes": 1.15
+        }
+    }
+]

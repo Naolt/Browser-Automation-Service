@@ -1,0 +1,154 @@
+[
+  {
+    "restaurant_name": "Sheger Restaurant",
+    "restaurant_url": "https://maps.app.goo.gl/jdmmJT81FUne3Vso6",
+    "party_size": 3,
+    "date": "July 28, 2025",
+    "time": "19:00",
+    "expected": "completed"
+  },
+  {
+    "restaurant_name": "Sheger Restaurant",
+    "restaurant_url": "https://maps.app.goo.gl/jdmmJT81FUne3Vso6",
+    "party_size": 5,
+    "date": "July 28, 2025",
+    "time": "20:00",
+    "expected": "completed"
+  },
+  {
+    "restaurant_name": "RSVP Restaurant",
+    "restaurant_url": "https://maps.app.goo.gl/4supBREETjsr8f8cA",
+    "party_size": 2,
+    "date": "July 28, 2025",
+    "time": "20:00",
+    "expected": "completed"
+  },
+  {
+    "restaurant_name": "Sheger Restaurant",
+    "restaurant_url": "https://maps.app.goo.gl/jdmmJT81FUne3Vso6",
+    "party_size": 2,
+    "date": "July 16, 2025",
+    "time": "19:00",
+    "expected": "completed"
+  },
+  {
+    "restaurant_name": "Zuma Restaurant",
+    "restaurant_url": "https://maps.app.goo.gl/NTp7SQhDt4gqosiJ9",
+    "party_size": 2,
+    "date": "July 9, 2025",
+    "time": "19:30",
+    "expected": "failed"
+  },
+  {
+    "restaurant_name": "Bussola Restaurant",
+    "restaurant_url": "https://maps.app.goo.gl/EU6vd8fcWoo2RNX29",
+    "party_size": 2,
+    "date": "July 9, 2025",
+    "time": "19:30",
+    "expected": "completed"
+  },
+  {
+    "restaurant_name": "RSVP Restaurant",
+    "restaurant_url": "https://maps.app.goo.gl/MsHKXVMfbn5sbAKQA",
+    "party_size": 2,
+    "date": "July 7, 2025",
+    "time": "19:00",
+    "expected": "completed"
+  },
+  {
+    "restaurant_name": "Doors Freestyle Grill",
+    "restaurant_url": "https://maps.app.goo.gl/1Hkkzis5zhwnu3Ah7",
+    "party_size": 2,
+    "date": "July 7, 2025",
+    "time": "19:00",
+    "expected": "completed"
+  },
+  {
+    "restaurant_name": "Doors Freestyle Grill",
+    "restaurant_url": "https://maps.app.goo.gl/1Hkkzis5zhwnu3Ah7",
+    "party_size": 15,
+    "date": "June 27, 2025",
+    "time": "19:00",
+    "expected": "completed"
+  },
+  {
+    "restaurant_name": "Doors Freestyle Grill",
+    "restaurant_url": "https://maps.app.goo.gl/1Hkkzis5zhwnu3Ah7",
+    "party_size": 5,
+    "date": "June 29, 2025",
+    "time": "20:30",
+    "expected": "completed"
+  },
+  {
+    "restaurant_name": "Doors Freestyle Grill",
+    "restaurant_url": "https://maps.app.goo.gl/1Hkkzis5zhwnu3Ah7",
+    "party_size": 10,
+    "date": "June 29, 2025",
+    "time": "18:00",
+    "expected": "completed"
+  },
+  {
+    "restaurant_name": "Doors Freestyle Grill",
+    "restaurant_url": "https://maps.app.goo.gl/1Hkkzis5zhwnu3Ah7",
+    "party_size": 7,
+    "date": "July 24, 2025",
+    "time": "19:45",
+    "expected": "completed"
+  },
+  {
+    "restaurant_name": "Doors Freestyle Grill",
+    "restaurant_url": "https://maps.app.goo.gl/1Hkkzis5zhwnu3Ah7",
+    "party_size": 1,
+    "date": "July 24, 2025",
+    "time": "22:00",
+    "expected": "completed"
+  },
+  {
+    "restaurant_name": "Sheger Restaurant",
+    "restaurant_url": "https://maps.app.goo.gl/jdmmJT81FUne3Vso6",
+    "party_size": 2,
+    "date": "June 28, 2025",
+    "time": "14:30",
+    "expected": "completed"
+  },
+  {
+    "restaurant_name": "Sheger Restaurant",
+    "restaurant_url": "https://maps.app.goo.gl/jdmmJT81FUne3Vso6",
+    "party_size": 9,
+    "date": "June 28, 2025",
+    "time": "15:30",
+    "expected": "completed"
+  },
+  {
+    "restaurant_name": "Sheger Restaurant",
+    "restaurant_url": "https://maps.app.goo.gl/jdmmJT81FUne3Vso6",
+    "party_size": 4,
+    "date": "June 28, 2025",
+    "time": "21:15",
+    "expected": "completed"
+  },
+  {
+    "restaurant_name": "Sheger Restaurant",
+    "restaurant_url": "https://maps.app.goo.gl/jdmmJT81FUne3Vso6",
+    "party_size": 1,
+    "date": "June 29, 2025",
+    "time": "15:00",
+    "expected": "completed"
+  },
+  {
+    "restaurant_name": "Sheger Restaurant",
+    "restaurant_url": "https://maps.app.goo.gl/jdmmJT81FUne3Vso6",
+    "party_size": 6,
+    "date": "June 29, 2025",
+    "time": "16:45",
+    "expected": "completed"
+  },
+  {
+    "restaurant_name": "Sheger Restaurant",
+    "restaurant_url": "https://maps.app.goo.gl/jdmmJT81FUne3Vso6",
+    "party_size": 10,
+    "date": "June 29, 2025",
+    "time": "23:30",
+    "expected": "completed"
+  }
+]
