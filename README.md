@@ -55,7 +55,6 @@ Copy `.env.example` to `.env` and fill in the following variables:
 ### Browser Configuration
 - `NUM_BROWSER_WORKERS` - Number of concurrent browser workers (default: 2)
 - `CLONED_PROFILES_BASE_DIR` - Base directory for Chrome profiles (default: ~/.config/browseruse/profiles)
-- `START_CDP_PORT` - Starting CDP port for browser agents (default: 9222)
 - `HEADLESS_MODE` - Run browsers in headless mode (default: true)
 
 ### Chrome Configuration
